@@ -186,7 +186,7 @@ pickups <- ggplot(x, aes(x="", y=Trips, fill=Borough)) +
         legend.title = element_text(size = 18),
         legend.text = element_text( size = 15)) +
   labs(x=NULL, y=NULL,
-       title="Pickup Locations by Borough",
+       title=NULL,
        subtitle=NULL,
        caption=NULL)
 
