@@ -15,7 +15,7 @@ By Jean Chang
 The New York City Taxi and Limousine Commission (TLC) has implemented rules to make New York City accessible to all residents and visitors, including those who use wheelchairs. On December 13, 2017, TLC started requiring For-Hire Vehicle (FHV) bases to dispatch 25% of their trips to wheelchair accessible vehicles (WAVs). This rule, WAV Dispatch, launched in February 2019 and have a total of 601 bases currently in the program with access to 699 FHV WAVs.
 
 
-<br/><br/> **Comparison to 2018** <br/>
+<br/>**Comparison to 2018** <br/>
 
 To see the travel patterns of passengers in FHV WAVs, trip data for June 2018 and June 2019 was analyzed. Based on trips made in June 2018, most of the trips were made in Lower Manhattan and parts of Brooklyn and Queens. There was an average of 36 vehicles on the road. Compared to last year, the number of FHV WAVs has increased significantly with an average of 548 vehicles on the road. Now trips are made in Manhattan, Brooklyn, Queens, Bronx and a few in Staten Island. 
 
@@ -76,7 +76,7 @@ Trips by Borough
   <li>Staten Island - 0.3%</li>
 </ol>
 
-<br/><br/> **Demand Predication** <br/><br/>
+<br/>**Demand Predication** <br/><br/>
 
 <p>
     <img src="/Images/Trip Prediction.png"/>
