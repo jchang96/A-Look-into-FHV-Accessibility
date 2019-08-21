@@ -5,7 +5,7 @@ ________________________________________________________________________________
 # A Look into For-Hire Vehicles Accessibility
 
 <br/>
-![](../blob/master/Images/nyc-taxi-1.png)
+![](https://github.com/jchang96/A-Look-into-For-Hire-Vehicles-Accessibility/blob/master/Images/nyc-taxi-1.png)
 
 <br/><br/>
 By Jean Chang
@@ -25,15 +25,14 @@ To see the travel patterns of passengers in FHV WAVs, trip data for June 2018 an
 *Left: Trips in 2018*<br/>
 *Right: Trips in 2019*<br/>
 
-<br/><br/> **Which regions have the most pick-ups and drop-offs?** <br/>
+<br/> **Which regions have the most pick-ups and drop-offs?** <br/>
 
 For a closer look on FHV accessibility trips made, pick-up and drop-off locations were analyzed by taxi zones. The data showed that the top 5 pick-up zones are East Harlem South, Central Harlem North, Lenox Hill East, Washington Heights South, located in Manhattan, and Forest Hills, located in Queens. The top 5 drop-off zones are East Harlem South, Washington Heights South, Central Harlem North, Lenox Hill East, located in Manhattan, and Borough Park, located in Brooklyn.
 <br/><br/>
 ![](../blob/master/Images/Zone Map.png)
 
 *Pick-ups and Drop-offs by Taxi Zones*
-
-<br/><br/>
+<br/>
 
 Top 5 Pick-up Taxi Zones  
 <ol type="1">
@@ -61,8 +60,7 @@ Most FHV accessibility trips are performed in Manhattan compared to the other bo
 ![](../blob/master/Images/Trips Pie Chart.png)
 
 *Pick-up Locations by Borough*
-
-<br/><br/>
+<br/>
 
 Trips by Borough                                                                                                          
 <ol type="1">
