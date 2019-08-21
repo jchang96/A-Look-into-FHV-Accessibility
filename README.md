@@ -21,8 +21,8 @@ To see the travel patterns of passengers in FHV WAVs, trip data for June 2018 an
 
 <br/>
 <p float="left">
-    <img src="/Images/June_2018.png" width="150"/>
-    <img src="/Images/June_2019.png" width="150"/>
+    <img src="/Images/June_2018.png"/>
+    <img src="/Images/June_2019.png"/>
     <em>Left: Trips in 2018<br/>Right: Trips in 2019</em>
 </p>
 
