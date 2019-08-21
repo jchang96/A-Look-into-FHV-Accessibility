@@ -90,4 +90,4 @@ A predictive model was developed to predict future demand of FHV accessibility t
 
 <br/><br/>
 
-*Jean Chang is a Programs Analyst at the New York City Taxi and Limousine Commission*
+*Jean Chang is a Data Analyst at the New York City Taxi and Limousine Commission*
