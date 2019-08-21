@@ -24,14 +24,14 @@ library(tidyverse)
 library(wesanderson)
 
 # set working directory
-loc = "H:/FHV Accessibility/Research Projects/R"
+loc = "H:/FHV Accessibility/Research Projects/A Look into For Hire Vehicles Accessibility"
 setwd(loc)
 
 ################################################################
 #             Read csv into R
 ################################################################
 
-df <- read.csv(file="H:/FHV Accessibility/Research Projects/Data/Coordinates from Random Forest Model.csv", header=TRUE, sep=",")
+df <- read.csv(file="H:/FHV Accessibility/Research Projects/A Look into For Hire Vehicles Accessibility/Data/Coordinates from Random Forest Model.csv", header=TRUE, sep=",")
 df_june_2019 <- read.csv(file="I:/Special Projects/_Accessibility/FHV/_Indicators/WAV Dispatch/Data/fhv_wav_201906_run-2019_08_14_.csv", header=TRUE, sep=",")
 df_june_2018 <- read.csv(file="I:/Special Projects/_Accessibility/FHV/_Indicators/WAV Dispatch/Data/fhv_wav_201806_2019-07-18.csv", header=TRUE, sep=",") 
 
@@ -90,7 +90,7 @@ june_2019 <- ggmap(get_stamenmap(rbind(as.numeric(paste(geocode_OSM("New York Ci
 
 # Save map as png
 ggsave(june_2019,
-       filename = ("H:/FHV Accessibility/Research Projects/Plots/June_2019.png"),
+       filename = ("H:/FHV Accessibility/Research Projects/A Look into For Hire Vehicles Accessibility/Plots/June_2019.png"),
        width = 15,
        height = 10,
        dpi = 300)
@@ -112,7 +112,7 @@ june_2018 <- ggmap(get_stamenmap(rbind(as.numeric(paste(geocode_OSM("New York Ci
 
 # Save map as png
 ggsave(june_2018,
-       filename = ("H:/FHV Accessibility/Research Projects/Plots/June_2018.png"),
+       filename = ("H:/FHV Accessibility/Research Projects/A Look into For Hire Vehicles Accessibility/Plots/June_2018.png"),
        width = 15,
        height = 10,
        dpi = 300)
@@ -160,7 +160,7 @@ zone_map <- ggplot() +
 
 # Save map as png
 ggsave(zone_map_pickups,
-       filename = ("H:/FHV Accessibility/Research Projects/Plots/Zone Map.png"),
+       filename = ("H:/FHV Accessibility/Research Projects/A Look into For Hire Vehicles Accessibility/Plots/Zone Map.png"),
        width = 15,
        height = 10,
        dpi = 300)
@@ -195,7 +195,7 @@ pie <- pickups + coord_polar("y", start=0)
 
 # Save map as png
 ggsave(pie,
-       filename = ("H:/FHV Accessibility/Research Projects/Plots/Trips Pie Chart.png"),
+       filename = ("H:/FHV Accessibility/Research Projects/A Look into For Hire Vehicles Accessibility/Plots/Trips Pie Chart.png"),
        width = 15,
        height = 10,
        dpi = 300)
@@ -226,7 +226,7 @@ heatmap <-  ggmap(get_stamenmap(rbind(as.numeric(paste(geocode_OSM("New York Cit
 
 # Save map as png
 ggsave(heatmap,
-       filename = ("H:/FHV Accessibility/Research Projects/Plots/Trip Prediction.png"),
+       filename = ("H:/FHV Accessibility/Research Projects/A Look into For Hire Vehicles Accessibility/Plots/Trip Prediction.png"),
        width = 15,
        height = 10,
        dpi = 300)
