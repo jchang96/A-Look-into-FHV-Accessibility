@@ -1,17 +1,12 @@
-# A Look into For-Hire Vehicles Accessibility
-Analysis and predictive modeling for High Volume For-Hire Vehicles Accessibility
-
-
 When 2019 data come out on TLC website in 2020, I can then email Rebecca (cc: Fausto and Nikita) the draft and hopefullly will be allow to post it on Medium.
 https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+________________________________________________________________________________________________________________________________________
 
-
-title: "A Look into For-Hire Vehicles Accessibility"
+# A Look into For-Hire Vehicles Accessibility
 
 <br/>
-```{r echo=FALSE}
-knitr::include_graphics("H:/FHV Accessibility/Research Projects/Plots/nyc-taxi-1.png")
-```
+![](H:/FHV Accessibility/Research Projects/Plots/nyc-taxi-1.png)
+
 <br/><br/>
 By Jean Chang
 <br/><br/>
@@ -24,10 +19,9 @@ The New York City Taxi and Limousine Commission (TLC) has implemented rules to m
 To see the travel patterns of passengers in FHV WAVs, trip data for June 2018 and June 2019 was analyzed. Based on trips made in June 2018, most of the trips were made in Lower Manhattan and parts of Brooklyn and Queens. There was an average of 36 vehicles on the road. Compared to last year, the number of FHV WAVs has increased significantly with an average of 548 vehicles on the road. Now trips are made in Manhattan, Brooklyn, Queens, Bronx and a few in Staten Island. 
 
 <br/><br/>
-```{r echo=FALSE, out.width="49%"}
-knitr::include_graphics(c("H:/FHV Accessibility/Research Projects/Plots/June_2018.png","H:/FHV Accessibility/Research Projects/Plots/June_2019.png"))
-```
-<br/><br/>
+![](H:/FHV Accessibility/Research Projects/Plots/June_2018.png, H:/FHV Accessibility/Research Projects/Plots/June_2019.png)
+
+<br/>
 *Left: Trips in 2018*<br/>
 *Right: Trips in 2019*<br/>
 
@@ -35,9 +29,8 @@ knitr::include_graphics(c("H:/FHV Accessibility/Research Projects/Plots/June_201
 
 For a closer look on FHV accessibility trips made, pick-up and drop-off locations were analyzed by taxi zones. The data showed that the top 5 pick-up zones are East Harlem South, Central Harlem North, Lenox Hill East, Washington Heights South, located in Manhattan, and Forest Hills, located in Queens. The top 5 drop-off zones are East Harlem South, Washington Heights South, Central Harlem North, Lenox Hill East, located in Manhattan, and Borough Park, located in Brooklyn.
 <br/><br/>
-```{r echo=FALSE}
-knitr::include_graphics("H:/FHV Accessibility/Research Projects/Plots/Zone Map.png")
-```
+![](H:/FHV Accessibility/Research Projects/Plots/Zone Map.png)
+
 *Pick-ups and Drop-offs by Taxi Zones*
 
 <br/><br/>
