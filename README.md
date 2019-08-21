@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 <br/>
 <p>
-    <img src="/Images/nyc-taxi-1.png" width="220" height="240" />
+    <img src="/Images/nyc-taxi-1.png"/>
 </p>
 
 <br/><br/>
