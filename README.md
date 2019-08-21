@@ -20,8 +20,9 @@ The New York City Taxi and Limousine Commission (TLC) has implemented rules to m
 To see the travel patterns of passengers in FHV WAVs, trip data for June 2018 and June 2019 was analyzed. Based on trips made in June 2018, most of the trips were made in Lower Manhattan and parts of Brooklyn and Queens. There was an average of 36 vehicles on the road. Compared to last year, the number of FHV WAVs has increased significantly with an average of 548 vehicles on the road. Now trips are made in Manhattan, Brooklyn, Queens, Bronx and a few in Staten Island. 
 
 <br/>
-<p>
-    <img src="/Images/June_2018.png"/>
+<p float="left">
+    <img src="/Images/June_2018.png" width="150"/>
+    <img src="/Images/June_2019.png" width="150"/>
     <em>Left: Trips in 2018<br/>Right: Trips in 2019</em>
 </p>
 
