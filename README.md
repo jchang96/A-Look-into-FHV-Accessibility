@@ -9,7 +9,6 @@ ________________________________________________________________________________
     <img src="/Images/nyc-taxi-1.png"/>
 </p>
 
-<br/><br/>
 By Jean Chang
 <br/><br/>
 
@@ -20,12 +19,11 @@ The New York City Taxi and Limousine Commission (TLC) has implemented rules to m
 
 To see the travel patterns of passengers in FHV WAVs, trip data for June 2018 and June 2019 was analyzed. Based on trips made in June 2018, most of the trips were made in Lower Manhattan and parts of Brooklyn and Queens. There was an average of 36 vehicles on the road. Compared to last year, the number of FHV WAVs has increased significantly with an average of 548 vehicles on the road. Now trips are made in Manhattan, Brooklyn, Queens, Bronx and a few in Staten Island. 
 
-<br/><br/>
+<br/>
 <p>
     <img src="/Images/June_2018.png"/>
+    <em>Left: Trips in 2018<br/>Right: Trips in 2019</em>
 </p>
-*Left: Trips in 2018*<br/>
-*Right: Trips in 2019*<br/>
 
 <br/> **Which regions have the most pick-ups and drop-offs?** <br/>
 
@@ -34,8 +32,8 @@ For a closer look on FHV accessibility trips made, pick-up and drop-off location
 <br/><br/>
 <p>
     <img src="/Images/Zone Map.png"/>
+    <em>Pick-ups and Drop-offs by Taxi Zones</em>
 </p>
-*Pick-ups and Drop-offs by Taxi Zones*
 <br/>
 
 Top 5 Pick-up Taxi Zones  
@@ -63,8 +61,8 @@ Most FHV accessibility trips are performed in Manhattan compared to the other bo
 
 <p>
     <img src="/Images/Trips Pie Chart.png"/>
+    <em>Pick-up Locations by Borough</em>
 </p>
-*Pick-up Locations by Borough*
 <br/>
 
 Trips by Borough                                                                                                          
@@ -80,9 +78,8 @@ Trips by Borough
 
 <p>
     <img src="/Images/Trip Prediction.png"/>
+    <em>FHV Accessibility Demand Prediciton</em>
 </p>
-*FHV Accessibility Demand Prediciton*
-
 <br/>
 
 A predictive model was developed to predict future demand of FHV accessibility trips in New York City. As illustrated by the heatmap shown above, trips in Queens will be in more demand. Nonetheless, the FHV Accessibility program will continue to be a reliable service to passengers in wheelchairs. 
