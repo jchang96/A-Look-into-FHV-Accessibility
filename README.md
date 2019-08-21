@@ -5,7 +5,7 @@ ________________________________________________________________________________
 # A Look into For-Hire Vehicles Accessibility
 
 <br/>
-![](H:/FHV Accessibility/Research Projects/Plots/nyc-taxi-1.png)
+![](/Images/nyc-taxi-1.png)
 
 <br/><br/>
 By Jean Chang
@@ -19,7 +19,7 @@ The New York City Taxi and Limousine Commission (TLC) has implemented rules to m
 To see the travel patterns of passengers in FHV WAVs, trip data for June 2018 and June 2019 was analyzed. Based on trips made in June 2018, most of the trips were made in Lower Manhattan and parts of Brooklyn and Queens. There was an average of 36 vehicles on the road. Compared to last year, the number of FHV WAVs has increased significantly with an average of 548 vehicles on the road. Now trips are made in Manhattan, Brooklyn, Queens, Bronx and a few in Staten Island. 
 
 <br/><br/>
-![](H:/FHV Accessibility/Research Projects/Plots/June_2018.png, H:/FHV Accessibility/Research Projects/Plots/June_2019.png)
+![](/Images/June_2018.png, /Images/June_2019.png)
 
 <br/>
 *Left: Trips in 2018*<br/>
@@ -29,7 +29,7 @@ To see the travel patterns of passengers in FHV WAVs, trip data for June 2018 an
 
 For a closer look on FHV accessibility trips made, pick-up and drop-off locations were analyzed by taxi zones. The data showed that the top 5 pick-up zones are East Harlem South, Central Harlem North, Lenox Hill East, Washington Heights South, located in Manhattan, and Forest Hills, located in Queens. The top 5 drop-off zones are East Harlem South, Washington Heights South, Central Harlem North, Lenox Hill East, located in Manhattan, and Borough Park, located in Brooklyn.
 <br/><br/>
-![](H:/FHV Accessibility/Research Projects/Plots/Zone Map.png)
+![]/Images/Zone Map.png)
 
 *Pick-ups and Drop-offs by Taxi Zones*
 
@@ -59,9 +59,8 @@ Top 5 Drop-off Taxi Zones
 
 Most FHV accessibility trips are performed in Manhattan compared to the other boroughs. In June 2019, there were 3,193 trips in Manhattan which is 38% of all FHV accessibility trips in New York City, followed by Brooklyn with 2,228 trips, Queens with 1,509 trips, Bronx with 1,482 trips, and Staten Island with only 22 trips. 
 
-```{r echo=FALSE}
-knitr::include_graphics("H:/FHV Accessibility/Research Projects/Plots/Trips Pie Chart.png")
-```
+![]/Images/Trips Pie Chart.png)
+
 *Pick-up Locations by Borough*
 
 <br/><br/>
@@ -77,9 +76,8 @@ Trips by Borough
 
 <br/><br/> **Demand Predication** <br/><br/>
 
-```{r echo=FALSE}
-knitr::include_graphics("H:/FHV Accessibility/Research Projects/Plots/Trip Prediction.png")
-```
+![]/Images/Trip Prediction.png)
+
 *FHV Accessibility Demand Prediciton*
 
 <br/>
