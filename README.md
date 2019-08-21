@@ -5,7 +5,7 @@ ________________________________________________________________________________
 # A Look into For-Hire Vehicles Accessibility
 
 <br/>
-![header image](https://github.com/jchang96/A-Look-into-For-Hire-Vehicles-Accessibility/blob/master/Images/nyc-taxi-1.png)
+![header image](/Images/nyc-taxi-1.png)
 
 <br/><br/>
 By Jean Chang
