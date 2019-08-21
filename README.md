@@ -5,7 +5,9 @@ ________________________________________________________________________________
 # A Look into For-Hire Vehicles Accessibility
 
 <br/>
-![header image](/Images/nyc-taxi-1.png)
+<p>
+    <img src="/Images/nyc-taxi-1.png" width="220" height="240" />
+</p>
 
 <br/><br/>
 By Jean Chang
