@@ -3,7 +3,6 @@
 <br/>
 <p>
     <img src="/Images/header.png"/>
-
 By Jean Chang
 <br/><br/>
 
