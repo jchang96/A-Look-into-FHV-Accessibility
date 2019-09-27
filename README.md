@@ -1,4 +1,4 @@
-Medium Post | <a href="https://nbviewer.jupyter.org/github/jchang96/A-Look-into-For-Hire-Vehicles-Accessibility/blob/master/FHV%20Accessibility%20Demand%20Prediction.ipynb">Jupyter Notebook</a>
+Data: HVFHV June 2019 Trip Records (https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 ________________________________________________________________________________________________________________________________________
 
 # A Look into For-Hire Vehicles Accessibility
