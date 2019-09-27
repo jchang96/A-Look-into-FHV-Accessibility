@@ -65,10 +65,11 @@ june_2019 <- ggmap(get_stamenmap(rbind(as.numeric(paste(geocode_OSM("New York Ci
         panel.background = element_rect(fill = 'white'),
         axis.text.x=element_blank(),
         axis.text.y=element_blank(),
-        axis.ticks = element_blank()) +
+        axis.ticks = element_blank(),
+        plot.title = element_text(size = 15, face = 'bold', hjust = 0.5)) +
   geom_polygon(data=borough_boundaries, aes(x=long, y=lat, group=group, fill=NA), color = "black", fill=NA, size=0.5) +
   labs(x=NULL, y=NULL, 
-       title=NULL,
+       title='2019 Pickups',
        subtitle=NULL,
        caption=NULL) 
 
@@ -87,10 +88,11 @@ june_2018 <- ggmap(get_stamenmap(rbind(as.numeric(paste(geocode_OSM("New York Ci
         panel.background = element_rect(fill = 'white'),
         axis.text.x=element_blank(),
         axis.text.y=element_blank(),
-        axis.ticks = element_blank()) +
+        axis.ticks = element_blank(),
+        plot.title = element_text(size = 15, face = 'bold', hjust = 0.5)) +
   geom_polygon(data=borough_boundaries, aes(x=long, y=lat, group=group, fill=NA), color = "black", fill=NA, size=0.5) +
   labs(x=NULL, y=NULL, 
-       title=NULL,
+       title='2018 Pickups',
        subtitle=NULL,
        caption=NULL) 
 
