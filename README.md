@@ -3,7 +3,6 @@
 <br/>
 <p>
     <img src="/Images/nyc-taxi-1.png"/>
-</p>
 
 By Jean Chang
 <br/><br/>
@@ -82,7 +81,7 @@ Trips by Borough
 
 A predictive model was developed to predict future demand of FHV accessibility trips in New York City. As illustrated by the heatmap shown above, trips in Queens will be in more demand. Nonetheless, the FHV Accessibility program will continue to be a reliable service to passengers in wheelchairs. 
 
-<br/><br/>
+<br/>
 
 *Jean Chang is a Data Analyst at the New York City Taxi and Limousine Commission*
 ________________________________________________________________________________________________________________________________________
