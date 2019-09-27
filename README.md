@@ -6,12 +6,12 @@
 By Jean Chang
 <br/><br/>
 
-The New York City Taxi and Limousine Commission (TLC) has implemented rules to make New York City accessible to all residents and visitors, including those who use wheelchairs. On December 13, 2017, TLC started requiring For-Hire Vehicle (FHV) bases to dispatch 25% of their trips to wheelchair accessible vehicles (WAVs). This rule, WAV Dispatch, launched in February 2019 and have a total of 601 bases currently in the program with access to 699 FHV WAVs.
+The New York City Taxi and Limousine Commission (TLC) has implemented new rules to make New York City accessible to all residents and visitors, including those who use wheelchairs. On October 3, 2018, TLC adopted two rules. The requirement applies to all For-Hire Vehicle (FHV) bases including smaller community car services, larger livery and black car bases, and the high-volume services: Uber, Lyft, Via, and Juno. The first option is to dispatch an increasing share of trips to wheelchair accessible vehicles (WAVs) until 25% of all trips are fulfilled by a WAV (trip mandate). The second option allows FHV bases to work with an approved dispatcher and guarantee 60% of all trips to have wait times less than 15 minutes and 90% in less than 30 minutes in 2019. The percentages will increase each year until 2021 (dispatch exception). 
 
 
 <br/>**Comparison to 2018** <br/>
 
-To see the travel patterns of passengers in FHV WAVs, trip data for June 2018 and June 2019 was analyzed. Based on trips made in June 2018, most of the trips were made in Lower Manhattan and parts of Brooklyn and Queens. There was an average of 36 vehicles on the road. Compared to last year, the number of FHV WAVs has increased significantly with an average of 548 vehicles on the road. Now trips are made in Manhattan, Brooklyn, Queens, Bronx and a few in Staten Island. 
+To see the travel patterns of passengers in FHV WAVs, trip data for June 2018 and June 2019 was analyzed. Based on trips made in June 2018, most of the trips were made in Lower Manhattan and parts of Brooklyn and Queens. There was an average of 36 vehicles on the road. Compared to last year, the number of FHV WAVs has increased significantly with an average of 579 vehicles on the road. Now trips are made in Manhattan, Brooklyn, Queens, Bronx and a few in Staten Island.  
 
 <br/>
 <p float="left">
