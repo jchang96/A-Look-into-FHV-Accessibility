@@ -59,7 +59,7 @@ Most FHV accessibility trips are performed in Manhattan compared to the other bo
     <img src="/Images/pie_chart.png" alt="drawing" width="500"/>
 </p>
 
-<br/><br/>
+<br/>
 
 Trips by Borough                                                                                                          
 <ol type="1">
