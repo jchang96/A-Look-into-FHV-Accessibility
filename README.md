@@ -1,6 +1,3 @@
-Data: HVFHV June 2019 Trip Records (https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
-________________________________________________________________________________________________________________________________________
-
 # A Look into For-Hire Vehicles Accessibility
 
 <br/>
@@ -88,3 +85,5 @@ A predictive model was developed to predict future demand of FHV accessibility t
 <br/><br/>
 
 *Jean Chang is a Data Analyst at the New York City Taxi and Limousine Commission*
+________________________________________________________________________________________________________________________________________
+Data: HVFHV June 2019 Trip Records (https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
