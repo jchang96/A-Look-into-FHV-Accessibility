@@ -56,7 +56,7 @@ Top 5 Drop-off Taxi Zones
 Most FHV accessibility trips are performed in Manhattan compared to the other boroughs. In June 2019, there were 3,193 trips in Manhattan which is 38% of all FHV accessibility trips in New York City, followed by Brooklyn with 2,228 trips, Queens with 1,509 trips, Bronx with 1,482 trips, and Staten Island with only 22 trips. 
 
 <p>
-    <img src="/Images/pie_chart.png" alt="drawing" width="600"/>
+    <img src="/Images/pie_chart.png" alt="drawing" width="400"/>
     <em>Total Trips by Borough</em>
 </p>
 <br/>
