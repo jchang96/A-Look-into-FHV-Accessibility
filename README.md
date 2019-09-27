@@ -17,7 +17,6 @@ To see the travel patterns of passengers in FHV WAVs, trip data for June 2018 an
 <p float="left">
     <img src="/Images/June_2018.png" width="425"/>
     <img src="/Images/June_2019.png" width="425"/>
-    <em>Left: Trips in 2018<br/>Right: Trips in 2019</em>
 </p>
 
 <br/> **Which regions have the most pick-ups and drop-offs?** <br/>
