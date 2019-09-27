@@ -2,7 +2,7 @@
 
 <br/>
 <p>
-    <img src="/Images/nyc-taxi-1.png"/>
+    <img src="/Images/header.png"/>
 
 By Jean Chang
 <br/><br/>
