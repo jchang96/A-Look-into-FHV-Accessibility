@@ -61,7 +61,7 @@ Most FHV accessibility trips are performed in Manhattan compared to the other bo
 
 Trips by Borough                                                                                                          
 <ol type="1">
-  <li>Manhattan - 38</li>
+  <li>Manhattan - 38%</li>
   <li>Brooklyn - 26%</li>
   <li>Queens - 18%</li>
   <li>Bronx - 18%</li>
