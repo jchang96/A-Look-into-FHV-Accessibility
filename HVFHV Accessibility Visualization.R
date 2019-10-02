@@ -61,7 +61,7 @@ nyc_Water <- spTransform(nyc_Water, CRS("+proj=longlat +datum=WGS84 +no_defs +el
 # Plot result from random forest model
 preq_map <- ggmap(get_stamenmap(rbind(as.numeric(paste(geocode_OSM("New York City")$bbox))), zoom = 13, maptype = "terrain-background")) + 
   stat_density2d(data=preq_coords, aes(x=Pickup_longitude, y=Pickup_latitude, fill = ..level.., alpha = ..level..), geom = "polygon", bins = 50) +
-  scale_fill_gradient(low="steelblue", high="indianred", name="Legend", breaks=c(40,80,120,160,200,240), limits=c(1,280)) +
+  scale_fill_gradient(low="royalblue1", high="red1", name="Legend", breaks=c(40,80,120,160,200,240), limits=c(1,280)) +
   theme(panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(),
         panel.background = element_rect(fill = 'white'),
