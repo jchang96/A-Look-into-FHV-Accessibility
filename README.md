@@ -24,9 +24,8 @@ To see the travel patterns of passengers in FHV WAVs, trip data for June 2018 an
 For a closer look on FHV accessibility trips made, pick-up and drop-off locations were analyzed by taxi zones. The data showed that the top 5 pick-up zones are East Harlem South, Central Harlem North, Lenox Hill East, Washington Heights South, located in Manhattan, and Forest Hills, located in Queens. The top 5 drop-off zones are East Harlem South, Washington Heights South, Central Harlem North, Lenox Hill East, located in Manhattan, and Borough Park, located in Brooklyn.
 
 <br/>
-<p float="left">
-    <img src="/Images/pickups_choropleth.png" width="425"/>
-    <img src="/Images/dropoffs_choropleth.png" width="425"/>
+<p align="center">
+    <img src="/Images/zones_choropleth.png" width="500"/>
 </p>
 
 Top 5 Pick-up Taxi Zones  
