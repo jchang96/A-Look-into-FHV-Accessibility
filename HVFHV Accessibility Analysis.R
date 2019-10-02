@@ -2,7 +2,7 @@
 
 ################################################################
 # Author: Jean Chang
-# Date Updated: 8/15/2019
+# Date Created: 8/15/2019
 # Purpose: Create a report about FHV accessibility for Medium
 ################################################################
 
