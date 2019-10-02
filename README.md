@@ -69,7 +69,6 @@ Trips by Borough
 
 <p>
     <img src="/Images/Trip_Forecast.png"/>
-    <em>FHV Accessibility Demand Prediciton</em>
 </p>
 <br/>
 
