@@ -71,7 +71,7 @@ Trips by Borough
 </p>
 <br/>
 
-A predictive model was developed to predict future demand of FHV accessibility trips in New York City. As illustrated by the heatmap shown above, trips in Manhattan is still in demand, while Brooklyn and Queens will have more trips. Nonetheless, the FHV Accessibility programs with increasingly access every year will continue to be a reliable service to passengers in wheelchairs. 
+A predictive model was developed to predict future demand of FHV accessibility trips in New York City. As illustrated by the heatmap shown above, trips in Manhattan are still in demand, while Brooklyn and Queens will have more trips. Nonetheless, the FHV Accessibility programs with increasingly access every year will continue to be a reliable service to passengers in wheelchairs. 
 
 <br/>
 ________________________________________________________________________________________________________________________________________
