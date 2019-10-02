@@ -76,7 +76,7 @@ A predictive model was developed to predict future demand of FHV accessibility t
 
 <br/>
 
-*Jean Chang is a Data Analyst at the New York City Taxi and Limousine Commission*
+Jean Chang is a Data Analyst at the New York City Taxi and Limousine Commission
 <br/>
 ________________________________________________________________________________________________________________________________________
-Data: HVFHV June 2019 Trip Records (https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+*Data: HVFHV June 2019 Trip Records (https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)*
