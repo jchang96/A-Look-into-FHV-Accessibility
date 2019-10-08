@@ -68,7 +68,7 @@ preq_map <- ggmap(get_stamenmap(rbind(as.numeric(paste(geocode_OSM("New York Cit
         axis.text.x=element_blank(),
         axis.text.y=element_blank(),
         axis.ticks = element_blank(),
-        plot.title = element_text(size = 30, face = 'bold', hjust = 0.5)) +
+        plot.title = element_text(size = 20, face = 'bold', hjust = 0.5)) +
   geom_polygon(data=nyc_Water, aes(x=long, y=lat, group=group), fill = '#99b3cc', size=0.75) +
   geom_polygon(data=borough_boundaries, aes(x=long, y=lat, group=group, fill=NA), color = "black", fill=NA, size=0.5) +
   labs(x=NULL, y=NULL, 
