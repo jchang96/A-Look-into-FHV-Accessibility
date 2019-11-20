@@ -22,14 +22,14 @@ library(tidyverse)
 library(wesanderson)
 
 # set working directory
-loc = "H:/[1] FHV Accessibility/Research Projects/A Look into High Volume For-Hire Vehicles Accessibility"
+loc = "H:/FHV Accessibility/Research Projects/A Look into High Volume For-Hire Vehicles Accessibility"
 setwd(loc)
 
 ################################################################
 #             Read csv into R
 ################################################################
 
-preq_coords <- read.csv(file="H:/[1] FHV Accessibility/Research Projects/A Look into High Volume For-Hire Vehicles Accessibility/Data/HVFHV Accessibility Predictive Coordinates.csv", header=TRUE, sep=",")
+preq_coords <- read.csv(file="H:/FHV Accessibility/Research Projects/A Look into High Volume For-Hire Vehicles Accessibility/Data/HVFHV Accessibility Predictive Coordinates.csv", header=TRUE, sep=",")
 
 ################################################################
 #             Data Cleaning
@@ -44,11 +44,11 @@ preq_coords$Pickup_latitude <- as.numeric(as.character(preq_coords$Pickup_latitu
 ################################################################
 
 # Load borough boundaries data
-shape_files_1 <- "H:/[1] FHV Accessibility/High-Volume/Plots/Shape Files 2"
+shape_files_1 <- "H:/FHV Accessibility/High-Volume/Plots/Shape Files 2"
 borough_boundaries <- readOGR(dsn=shape_files_1, layer="borough_boundaries")
 
 # Load water boundaries data
-shape_files_2 <- "H:/[1] FHV Accessibility/High-Volume/Plots/Shape Files 3"
+shape_files_2 <- "H:/FHV Accessibility/High-Volume/Plots/Shape Files 3"
 nyc_Water <- readOGR(dsn=shape_files_2, layer="nyu_2451_34516")
 nyc_Water$awater_num <- as.numeric(as.character(nyc_Water$awater))
 nyc_Water <- subset(nyc_Water, awater_num > 1000000)
@@ -79,7 +79,7 @@ preq_map <- ggmap(get_stamenmap(rbind(as.numeric(paste(geocode_OSM("New York Cit
 
 # Save map as png
 ggsave(preq_map,
-       filename = ("H:/[1] FHV Accessibility/Research Projects/A Look into High Volume For-Hire Vehicles Accessibility/Plots/Trip_Forecast.png"),
+       filename = ("H:/FHV Accessibility/Research Projects/A Look into High Volume For-Hire Vehicles Accessibility/Plots/Trip_Forecast.png"),
        width = 15,
        height = 10,
        dpi = 300)
