@@ -24,15 +24,15 @@ library(tidyverse)
 library(wesanderson)
 
 # set working directory
-loc = "H:/FHV Accessibility/Research Projects/A Look into For Hire Vehicles Accessibility"
+loc = "H:/FHV Accessibility/Research Projects/A Look into FHV Accessibility"
 setwd(loc)
 
 ################################################################
 #             Read csv into R
 ################################################################
 
-df_june_2019 <- read.csv(file="H:/FHV Accessibility/Research Projects/A Look into For Hire Vehicles Accessibility/Data/2019-06_FHV_WAVs_on_the_road_2019-09-11_v01.csv", header=TRUE, sep=",")
-df_june_2018 <- read.csv(file="H:/FHV Accessibility/Research Projects/A Look into For Hire Vehicles Accessibility/Data/2018-06_FHV_WAVs_on_the_road_2019-09-11_v01.csv", header=TRUE, sep=",") 
+df_june_2019 <- read.csv(file="H:/FHV Accessibility/Research Projects/A Look into FHV Accessibility/Data/2019-06_FHV_WAVs_on_the_road_2019-09-11_v01.csv", header=TRUE, sep=",")
+df_june_2018 <- read.csv(file="H:/FHV Accessibility/Research Projects/A Look into FHV Accessibility/Data/2018-06_FHV_WAVs_on_the_road_2019-09-11_v01.csv", header=TRUE, sep=",") 
 
 ################################################################
 #             Data Cleaning
@@ -75,7 +75,7 @@ june_2019 <- ggmap(get_stamenmap(rbind(as.numeric(paste(geocode_OSM("New York Ci
 
 # Save map as png
 ggsave(june_2019,
-       filename = ("H:/FHV Accessibility/Research Projects/A Look into For Hire Vehicles Accessibility/Plots/June_2019.png"),
+       filename = ("H:/FHV Accessibility/Research Projects/A Look into FHV Accessibility/Plots/June_2019.png"),
        width = 15,
        height = 10,
        dpi = 300)
@@ -98,7 +98,7 @@ june_2018 <- ggmap(get_stamenmap(rbind(as.numeric(paste(geocode_OSM("New York Ci
 
 # Save map as png
 ggsave(june_2018,
-       filename = ("H:/FHV Accessibility/Research Projects/A Look into For Hire Vehicles Accessibility/Plots/June_2018.png"),
+       filename = ("H:/FHV Accessibility/Research Projects/A Look into FHV Accessibility/Plots/June_2018.png"),
        width = 15,
        height = 10,
        dpi = 300)

@@ -22,14 +22,14 @@ library(tidyverse)
 library(wesanderson)
 
 # set working directory
-loc = "H:/FHV Accessibility/Research Projects/A Look into High Volume For-Hire Vehicles Accessibility"
+loc = "H:/FHV Accessibility/Research Projects/A Look into FHV Accessibility"
 setwd(loc)
 
 ################################################################
 #             Read csv into R
 ################################################################
 
-preq_coords <- read.csv(file="H:/FHV Accessibility/Research Projects/A Look into High Volume For-Hire Vehicles Accessibility/Data/HVFHV Accessibility Predictive Coordinates.csv", header=TRUE, sep=",")
+preq_coords <- read.csv(file="H:/FHV Accessibility/Research Projects/A Look into FHV Accessibility/Data/HVFHV Accessibility Predictive Coordinates.csv", header=TRUE, sep=",")
 
 ################################################################
 #             Data Cleaning
@@ -79,7 +79,7 @@ preq_map <- ggmap(get_stamenmap(rbind(as.numeric(paste(geocode_OSM("New York Cit
 
 # Save map as png
 ggsave(preq_map,
-       filename = ("H:/FHV Accessibility/Research Projects/A Look into High Volume For-Hire Vehicles Accessibility/Plots/Trip_Forecast.png"),
+       filename = ("H:/FHV Accessibility/Research Projects/A Look into FHV Accessibility/Plots/Trip_Forecast.png"),
        width = 15,
        height = 10,
        dpi = 300)
