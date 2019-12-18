@@ -57,11 +57,11 @@ order by count([t_trip_request_datetime]) desc
 
 --Trips per Borough
 select [borough], case when [borough] = 'Manhattan' then sum([total]) 
-					   when [borough] = 'Brooklyn' then sum([total]) 
-					   when [borough] = 'Bronx' then sum([total]) 
-					   when [borough] = 'Queens' then sum([total]) 
-					   when [borough] = 'Staten Island' then sum([total]) 
-					   else 0 end as [total trips]
+			when [borough] = 'Brooklyn' then sum([total]) 
+			when [borough] = 'Bronx' then sum([total]) 
+			when [borough] = 'Queens' then sum([total]) 
+			when [borough] = 'Staten Island' then sum([total]) 
+			else 0 end as [total trips]
 from (select [t_pulocation_id], count([t_trip_request_datetime]) as [total],
 	case 
 		when [t_pulocation_id] in ('4','12','13','24','41','42','43','45','48','50','68','74','75','79','87','88','90','100','103','104',
