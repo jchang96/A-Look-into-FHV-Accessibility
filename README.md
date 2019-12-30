@@ -1,7 +1,7 @@
 # A Look into FHV Accessibility
 
 <br/>
-    <img src="/Images/header.png"/>
+    <img src="https://raw.github.com/jchang96/A-Look-into-FHV-Accessibility/blob/master/Images/header.png"/>
 
 By Jean Chang
 <br/><br/>
@@ -15,8 +15,8 @@ To see the travel patterns of passengers in FHV WAVs, trip data for June 2018 an
 
 <br/>
 <p float="left">
-    <img src="/Images/June_2018.png" width="425"/>
-    <img src="/Images/June_2019.png" width="425"/>
+    <img src="https://raw.github.com/jchang96/A-Look-into-FHV-Accessibility/blob/master/Images/June_2018.png" width="425"/>
+    <img src="https://raw.github.com/jchang96/A-Look-into-FHV-Accessibility/blob/master/Images/June_2019.png" width="425"/>
 </p>
 
 <br/>**Which regions have the most pick-ups and drop-offs?** <br/>
@@ -52,7 +52,7 @@ Top 5 Drop-off Taxi Zones
 Most FHV accessibility trips are performed in Manhattan compared to the other boroughs. In June 2019, there were 3,193 trips in Manhattan which is 38% of all FHV accessibility trips in New York City, followed by Brooklyn with 2,228 trips, Queens with 1,509 trips, Bronx with 1,482 trips, and Staten Island with only 22 trips. 
 
 <p align="center">
-    <img src="/Images/pie_chart.png" alt="drawing" width="450"/>
+    <img src="https://raw.github.com/jchang96/A-Look-into-FHV-Accessibility/blob/master/Images/pie_chart.png" alt="drawing" width="450"/>
 </p>
 
 Trips by Borough                                                                                                          
@@ -67,7 +67,7 @@ Trips by Borough
 <br/>**Demand Predication** <br/><br/>
 
 <p>
-    <img src="/Images/Trip_Forecast.png"/>
+    <img src="https://raw.github.com/jchang96/A-Look-into-FHV-Accessibility/blob/master/Images/Trip_Forecast.png"/>
 </p>
 <br/>
 
