@@ -1,4 +1,3 @@
-<p style="text-align: center;"># A Look into FHV Accessibility</p>
 <center> <h1>A Look into FHV Accessibility</h1> </center>
 
 <br/>
