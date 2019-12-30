@@ -1,4 +1,4 @@
-# A Look into FHV Accessibility
+-># A Look into FHV Accessibility<-
 
 <br/>
     <img src="https://github.com/jchang96/A-Look-into-FHV-Accessibility/blob/master/Images/header.png"/>
@@ -75,7 +75,4 @@ A predictive model was developed to predict future demand of FHV accessibility t
 
 <br/><hr>
 
-Jean Chang is a Data Analyst at the New York City Taxi and Limousine Commission
-<br/>
-<br/>
-*Data: [HVFHV 2019 Trip Records](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)*
+*Jean Chang is a Data Analyst at the New York City Taxi and Limousine Commission*
