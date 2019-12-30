@@ -1,4 +1,4 @@
--># A Look into FHV Accessibility<-
+<p style="text-align: center;"># A Look into FHV Accessibility</p>
 
 <br/>
     <img src="https://github.com/jchang96/A-Look-into-FHV-Accessibility/blob/master/Images/header.png"/>
