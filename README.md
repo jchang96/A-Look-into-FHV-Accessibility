@@ -1,8 +1,8 @@
 # A Look into FHV Accessibility
 
 <br/>
-<p>
-    <img src="/Images/header.png"/>
+![alt text](https://github.com/jchang96/https://github.com/jchang96/A-Look-into-FHV-Accessibility/tree/master/Images/header.png)
+
 By Jean Chang
 <br/><br/>
 
