@@ -1,9 +1,7 @@
 # A Look into FHV Accessibility
 
 <br/>
-<p>
     <img src="/Images/header.png"/>
-</p>
 
 By Jean Chang
 <br/><br/>
